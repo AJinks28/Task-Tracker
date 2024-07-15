@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // const API_URL = 'https://task-track-ayvs.onrender.com/api/goals/'
-const API_URL = '/api/goals/';
+const API_URL = 'https://task-tracker-6k3h.onrender.com/api/goals/';
   // "proxy": "https://task-track-ayvs.onrender.com", in package.json
 
 // Create new goal
