@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy":"https://task-tracker-frontend-zeta.vercel.app/", 
+  "proxy":"https://task-tracker-frontend-zeta.vercel.app", 
   "eslintConfig": {
     "extends": [
       "react-app",
