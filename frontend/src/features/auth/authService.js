@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-// const API_URL = 'https://task-track-ayvs.onrender.com/api/users/'
-const API_URL = "https://task-tracker-6k3h.onrender.com/api/users/"
+const API_URL = 'https://task-track-ayvs.onrender.com/api/users/'
+// const API_URL = "https://task-tracker-6k3h.onrender.com/api/users/"
 
 // Register user
 const register = async (userData) => {

@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy":"https://task-tracker-6k3h.onrender.com", 
+  "proxy": "https://task-track-ayvs.onrender.com", 
   "eslintConfig": {
     "extends": [
       "react-app",
