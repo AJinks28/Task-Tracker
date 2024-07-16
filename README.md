@@ -1,6 +1,6 @@
-# Goal-Setter🎯 - Your Ambition Ally!
+# Task-Tracker🎯 - Your Ambition Ally!
 
-Welcome to Goal-Setter🎯!
+Welcome to Task-Tracker🎯!
 
 # Table of Contents📄
 - Features
@@ -10,7 +10,7 @@ Welcome to Goal-Setter🎯!
 - License
 
 # Features💫
-- **User Authentication** - Goal-Setter offers a robust user authentication system that ensures secure access to the app.
+- **User Authentication** - Task-Tracker offers a robust user authentication system that ensures secure access to the app.
   - Register: Users can register their accounts using a unique email address and password.
   - Login: Subsequently, log in with their credentials.
   - Authentication is implemented with the help of JWT tokens. The user remains signed in until they close the tab.
@@ -39,10 +39,10 @@ Welcome to Goal-Setter🎯!
 - **Form Validation**: Made validation checks to the login and register forms, which now display error messages through the Toastify API. I also implemented validation checks for the forms used to add and update goals, which prevent users from setting a completion time earlier than the current date or a negative priority. These changes have improved data consistency.
 
 # Installation🛠️
-To run Goal-Setter locally, follow these steps:
+To run Task-Tracker locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/AJinks28/Goal-Setter.git`
-- Navigate to the project directory: `cd Goal-Setter`
+- Clone the repository: `git clone https://github.com/AJinks28/Task-Tracker.git`
+- Navigate to the project directory: `cd Task-Tracker`
 - Install server dependencies: `npm install`
 - Navigate to the client directory: `cd client`
 - Install client dependencies: `npm install`
@@ -59,7 +59,7 @@ To run Goal-Setter locally, follow these steps:
 - Log in to access your personalized dashboard.
 - Add your goals 
 - Update or delete goals as needed.
-### Stay motivated, track your progress, and achieve your dreams with Goal-Setter!
+### Stay motivated, track your progress, and achieve your dreams with Task-Tracker!
 
 # Future Enhancements💫
 
@@ -72,6 +72,6 @@ To run Goal-Setter locally, follow these steps:
 This project is licensed under the MIT License. Please feel free to use, modify, and distribute this code according to the terms of the license.
 
 ---
-We hope Goal-Setter helps you stay focused and accomplish your aspirations.<br>
+We hope Task-Tracker helps you stay focused and accomplish your aspirations.<br>
 Feel free to star the repository if you find it useful, and don't forget to share it with others who might benefit from this tool.<br>
 Happy goal setting! 🎯<br>
